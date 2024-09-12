@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "quantity": 14,
+      "image": "http://dummyimage.com/152x100.png/cc0000/ffffff",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "quantity": 73,
+      "image": "http://dummyimage.com/148x100.png/ff4444/ffffff",
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "quantity": 11,
+      "image": "http://dummyimage.com/232x100.png/5fa2dd/ffffff",
+      "status": "active"
+    }
+]
